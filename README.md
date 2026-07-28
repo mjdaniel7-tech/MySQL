@@ -170,7 +170,11 @@ Current Progress
 
 - Additional celestial objects (asteroids, comets, dwarf planets)
 
+## Entity Relationship Diagram
+
+![Entity Relationship Diagram](ERP.PNG)
 ---
+
 
 # Author
 
