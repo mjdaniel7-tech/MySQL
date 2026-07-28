@@ -2,27 +2,33 @@
 
 A relational database project that models the Solar System using MySQL.
 
-This project demonstrates database design, SQL queries, and multi-language database connectivity using Python, Java, Rust, and AI-powered applications.
+This project demonstrates database design, SQL development, relational database concepts, and multi-language database connectivity using Python, Java, Rust, and AI-powered applications.
 
-## Features
+---
 
-- Solar System database
+# Features
+
+- Solar System relational database
 
 - 9 celestial bodies (including Pluto)
 
 - 25 major moons
 
-- Foreign key relationships
+- Primary and Foreign Key relationships
 
-- SQL queries and reports
+- Scientific planetary data
+
+- Moon orbital distance data
 
 - Search by planet or moon
 
-- Planet and moon statistics
+- SQL analytics and reports
 
-- AI natural language interface
+- AI-powered natural language queries
 
-## Technologies
+---
+
+# Technologies
 
 - MySQL
 
@@ -40,71 +46,119 @@ This project demonstrates database design, SQL queries, and multi-language datab
 
 - GitHub
 
-## Project Phases
+---
 
-### Phase 1
+# Project Phases
 
-- Database schema
+## Phase 1
 
-- Celestial body table
+- MySQL Database Design
 
-- Moon table
+- Celestial Bodies Table
 
-- Primary and foreign keys
+- Moon Table
 
-### Phase 2
+- Primary & Foreign Keys
 
-- Distance from planet data
+## Phase 2
 
-- Additional SQL reports
+- Enhanced Database
 
-- Search improvements
+- Moon Distance Data
 
-- Analytics queries
+- Additional SQL Queries
 
-### Phase 3
+- Analytics Reports
 
-- Python database application
+## Phase 3
 
-- Interactive menu
+- Python Database Application
 
-- Search functions
+- Interactive Console Menu
 
-- Reporting system
+- Planet & Moon Search
 
-### Phase 4
+- Reporting System
 
-- Java JDBC application
+## Phase 4
 
-- Console interface
+- Java JDBC Application
 
-- Database connectivity
+- Database Connectivity
 
-### Phase 5
+- Console Interface
 
-- Rust SQLx application
+## Phase 5
 
-- Async database access
+- Rust SQLx Application
 
-- Interactive terminal
+- Async Database Access
 
-### Phase 6
+- Interactive Terminal
 
-- AI assistant using LangChain
+## Phase 6
 
-- Natural language database queries
+- AI Assistant
 
-- OpenAI integration
+- LangChain Integration
 
-## Future Enhancements
+- OpenAI Integration
+
+- Natural Language SQL Queries
+
+## Phase 7
+
+- NASA Media Integration
+
+- NASA Planet Images
+
+- NASA Mission Videos
+
+- Planet Rotation Animations
+
+## Phase 8
+
+- GUI / Web Application
+
+- REST API
+
+- Unit Testing
+
+---
+
+# Project Status
+
+🚧 In Development
+
+Current Progress
+
+- ✅ Phase 1 – MySQL Database Design
+
+- ✅ Phase 2 – Enhanced Database (Moon Distances & Reports)
+
+- 🔄 Phase 3 – Python Database Application
+
+- 🔄 Phase 4 – Java JDBC Application
+
+- 🔄 Phase 5 – Rust SQLx Application
+
+- 🔄 Phase 6 – AI Assistant (LangChain + OpenAI)
+
+- 🔄 Phase 7 – NASA Media Integration
+
+- 🔄 Phase 8 – GUI / Web Application
+
+---
+
+# Future Enhancements
 
 - NASA planet images
 
-- NASA videos
+- NASA mission videos
 
 - Planet rotation animations
 
-- GUI interface
+- Graphical User Interface (GUI)
 
 - Web application
 
@@ -112,10 +166,20 @@ This project demonstrates database design, SQL queries, and multi-language datab
 
 - Unit testing
 
-## Author
+- Performance optimization
+
+- Additional celestial objects (asteroids, comets, dwarf planets)
+
+---
+
+# Author
 
 Michael Daniel
 
-GitHub:
+GitHub: **mjdaniel7-tech**
 
-https://github.com/mjdaniel7-tech
+---
+
+# License
+
+Apache License 2.0
